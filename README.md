@@ -1,7 +1,8 @@
 # My first web with React
 
 This project is a to do, basic project made with React and Bootstrap, this project was based on a similar project made by the youtuber [Fazt Code](https://www.youtube.com/@FaztCode).
-[Click here to see the original video](https://youtu.be/sjrK6RA65eQ?si=_Ud8d2CUoBiKtmH8)
+* [Click here to see the original video](https://youtu.be/sjrK6RA65eQ?si=_Ud8d2CUoBiKtmH8)
+* [Click here to see the page](https://over1185.github.io/To-do-React/)
 
 # Example Video
 
